@@ -32,12 +32,12 @@ Resume templates should include Information about the Person, Objective, Project
 - Replace all the placeholder with you information
 - Select the template
 - Click on Print and save as PDF. (In case the template is not fitting properly, follow the below recommended settings)
-  - Orientation: Portrait
-  - Paper size: A4
-  - Scale: Fit to width
-  - Margins: None
-  - Print headers & footers: Uncheck (remove tick mark)
-  - Background/graphics: Check (add tick mark)
+- Orientation: Portrait
+- Paper size: A4
+- Scale: Fit to width
+- Margins: None
+- Print headers & footers: Uncheck (remove tick mark)
+- Background/graphics: Check (add tick mark)
 
 
 ### Technologies
