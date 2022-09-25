@@ -33,8 +33,6 @@
 - [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
 - [Next.js](https://nextjs.org/) (Bundler)
 
-<div align="center">More features coming soon</div>
-
 ---
 
 Feel free to use the source to create your resume.<br/>
