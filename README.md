@@ -18,9 +18,9 @@ Resume templates should include Information about the Person, Objective, Project
 
 
 <div align="center">
-<h1>Single Page Resume Builder</h1>
+<h1>Solution</h1>
 
-### Free and open source, fully customizable professional single page resume builder
+### Free and fully customizable professional single page resume builder
 
 <a href="https://e-resume.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://e-resume.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
