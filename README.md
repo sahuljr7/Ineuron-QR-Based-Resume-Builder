@@ -45,4 +45,3 @@
 Feel free to use the source to create your resume.<br/>
 Basic knowledge of HTML5, CSS and React is sufficient if you to customize the resume for your requirements.
 
-![](https://visitor-badge.glitch.me/badge?page_id=single-page-resume-builder)
