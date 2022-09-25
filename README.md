@@ -1,4 +1,5 @@
-Problem Statement 3 (QR Based Resume Builder)
+<div align="center">
+<h1>Problem Statement 3 (QR Based Resume Builder)</h1>
 
 Create a resume builder which can be shared to anyone via a QR Code.
 
