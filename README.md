@@ -3,11 +3,16 @@ Problem Statement 3 (QR Based Resume Builder)
 Create a resume builder which can be shared to anyone via a QR Code.
 
 Resume builder with 2 Custom template options which can be downloaded.
+
 Authenticated user can generate QR code which can be shared to view their resumes and download
+
 Saved resume can be viewed and should be editable
+
 Delete Saved resumes
+
 List of Saved resumes.
-Resume templates should include Information about the Person, Objective, Projects,       Skills, Location, Regards etc.
+
+Resume templates should include Information about the Person, Objective, Projects, Skills, Location, Regards etc.
 
 
 
@@ -33,11 +38,6 @@ Resume templates should include Information about the Person, Objective, Project
   - Print headers & footers: Uncheck (remove tick mark)
   - Background/graphics: Check (add tick mark)
 
-### For developers
-
-- `git clone https://github.com/sadanandpai/single-page-resume-builder.git`
-- `yarn install`
-- `yarn dev`
 
 ### Technologies
 
@@ -46,8 +46,4 @@ Resume templates should include Information about the Person, Objective, Project
 - [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
 - [Next.js](https://nextjs.org/) (Bundler)
 
----
-
-Feel free to use the source to create your resume.<br/>
-Basic knowledge of HTML5, CSS and React is sufficient if you to customize the resume for your requirements.
 
