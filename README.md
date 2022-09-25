@@ -1,3 +1,16 @@
+Problem Statement 3 (QR Based Resume Builder)
+
+Create a resume builder which can be shared to anyone via a QR Code.
+
+Resume builder with 2 Custom template options which can be downloaded.
+Authenticated user can generate QR code which can be shared to view their resumes and download
+Saved resume can be viewed and should be editable
+Delete Saved resumes
+List of Saved resumes.
+Resume templates should include Information about the Person, Objective, Projects,       Skills, Location, Regards etc.
+
+
+
 <div align="center">
 <h1>Single Page Resume Builder</h1>
 
