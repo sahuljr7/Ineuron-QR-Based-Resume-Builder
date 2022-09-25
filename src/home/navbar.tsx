@@ -46,7 +46,7 @@ const NavBar: NextPage = () => {
         <a className="nav-item show-web">Recommendations</a>
         <a className="nav-item show-web">About</a>
         <a
-          href="https://github.com/sahuljr7/Resume-Builder"
+          href="https://github.com/sahuljr7/Ineuron-QR-Based-Resume-Builder"
           className="icon"
           target="_new"
           title="Source code"
