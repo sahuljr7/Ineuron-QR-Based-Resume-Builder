@@ -22,6 +22,18 @@ Resume templates should include Information about the Person, Objective, Project
 
 ### Free and fully customizable professional single page resume builder
 
+1. No signup/signin
+
+Completely free and open source. No registration required. We do not store any of your information. Create unlimited resumes using our tool.
+
+2.Build in minutes
+
+With the powerful editor and wide range of professinal/job ready templates, you can build your resume within a matter few clicks & key strokes.
+
+3.Fit for your needs
+
+If you are a developer, customize the template which suits your data and all you need to know is some basic knowledge of React and programming.
+
 <a href="https://e-resume.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://e-resume.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
