@@ -22,7 +22,7 @@ Resume templates should include Information about the Person, Objective, Project
 
 ### Free and fully customizable professional single page resume builder
 
-1. No signup/signin
+1.No signup/signin
 
 Completely free and open source. No registration required. We do not store any of your information. Create unlimited resumes using our tool.
 
