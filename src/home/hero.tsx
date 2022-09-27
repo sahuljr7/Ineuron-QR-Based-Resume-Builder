@@ -72,7 +72,7 @@ const Hero: NextPage = () => {
               <CTA>Get Started</CTA>
             </a>
           </Link>
-          <Link href="https://ineuron-qr-genrator.vercel.app/" target="_blank">
+          <Link href="https://ineuron-qr-genrator.vercel.app/">
             <a>
               <CTA>QR Generator</CTA>
             </a>
